@@ -45,3 +45,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 5   | Top K Frequent Elements      | Medium     | ✅ Solved | Bucket Sort                                               |
 | 6   | Encode and Decode Strings    | Medium     | ✅ Solved | Length-Prefix Encoding                                    |
 | 7   | Product of Array Except Self | Medium     | ✅ Solved | Prefix and Suffix Products table                          |
+| 8   | Longest Consecutive Sequence | Medium     | ✅ Solved | HashSet                                                   |
