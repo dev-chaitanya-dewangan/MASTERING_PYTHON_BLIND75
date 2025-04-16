@@ -47,3 +47,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 7   | Product of Array Except Self | Medium     | ✅ Solved | Prefix and Suffix Products table                          |
 | 8   | Longest Consecutive Sequence | Medium     | ✅ Solved | HashSet                                                   |
 | 9   | Valid Palindrome             | Easy       | ✅ Solved | Two Pointer                                               |
+| 10  | Three Sum                    | Medium     | ✅ Solved | Two Pointer                                               |
