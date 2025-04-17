@@ -48,3 +48,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 8   | Longest Consecutive Sequence | Medium     | ✅ Solved | HashSet                                                   |
 | 9   | Valid Palindrome             | Easy       | ✅ Solved | Two Pointer                                               |
 | 10  | Three Sum                    | Medium     | ✅ Solved | Two Pointer                                               |
+| 11  | MAX WATER CONTAINER          | Medium     | ✅ Solved | Two Pointer                                               |
