@@ -49,3 +49,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 9   | Valid Palindrome             | Easy       | ✅ Solved | Two Pointer                                               |
 | 10  | Three Sum                    | Medium     | ✅ Solved | Two Pointer                                               |
 | 11  | MAX WATER CONTAINER          | Medium     | ✅ Solved | Two Pointer                                               |
+| 12  | BUY SELL STOCK               | Easy       | ✅ Solved | Sliding Window                                            |
