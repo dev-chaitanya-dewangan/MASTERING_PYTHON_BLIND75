@@ -14,7 +14,8 @@ def buySellStock(prices):
             left=right
         # REGARDLESS OF SITUATION INCREASE THE RIGHT POINTER
         right+=1
-    print(maxProfit)
+    # print(maxProfit)
+    return maxProfit
 buySellStock([12,4,7,3,4])
 buySellStock([10,1,5,6,7,1])
 
