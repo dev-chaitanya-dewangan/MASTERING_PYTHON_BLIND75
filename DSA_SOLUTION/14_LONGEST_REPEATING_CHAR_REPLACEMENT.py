@@ -1,0 +1,44 @@
+def longestRepeatingCharReplacment(s,k):
+    # THIS TRACKS THE CHARACTER 
+    count={}
+    left=0
+    result=0
+    # THIS TRACKS THE MAX FREQUENCY OF THE WINDOW OF LONGEST CHARACTER
+    maxFrequency=0
+    #  LOOP THOUGH ALL THE CHARCTER IN GIVEN STRING
+    for right in range(len(s)):
+        # ADDS THE CURRENT CHARACTER FROM GIVEN STRING AT INDEX OF RIGHT(s[right])
+        count[s[right]]=1+count.get(s[right],0)
+        # THIS COMAPRES THE CURRENT LENGTH OF REPLACEMENT WINDOW AND PREVIOUS AND CHANGES WHEN CURRENT IS GREATER
+        maxFrequency=max(maxFrequency,count[s[right]])
+        # (right - left +1 ) THIS IS THE LENGHT OF THE WINDOW OF THE LONGEST CHARCTER REPLACEMENT
+        while (right - left +1 ) - maxFrequency > k :
+            count[s[left]]-=1
+            left+=1
+        result=max(result,right-left+1)
+    print(result,count)
+longestRepeatingCharReplacment("ABXA",k=2)
+
+
+"""
+TIME COMPLEXITY  :O(N)
+SPACE COMPLEXITY :O(N)
+"""
+
+"""
+METHOD TO SOLVE THIS :
+
+WE HAVE TO TRACK ONLY THE HOW MANY SAME CHARACTER ARE IN CURRENT REPLACEMENT WINDOW AND SUBTRACT WITH TOTAL NUMBER OF CHARACTERIN WINDOW
+THEN MATCH IF SUBTRACTED IS EQUAL TO THE GIVEN K THEN ITS MATCH AND WE FOUND OUR LONGEST REPEATING CHAR..
+--------------------------------------------------------------------------------------------------
+PSUEDO CODE
+1.DEFINE COUNT ,LEFT ,RESULT,MAXFREQUENCY(current window whats maximum frequcny of character seen)
+2.LOOP FOR ERVERY CHARACTER 
+3.WITH KEY->CURRENT CHARACTER INCREMENT ITS VALUE BY ONE IF NOT PRESENT THEN START WITH ZERO
+4.COMPARE CURRENT CHARACTER FROM DICTIONARY AND THE MAX FREQUENCY AND UPDATE WHICH IS GREATER
+5.LOOP UNTIL MAXIMUM REPLACEMENT NEEDED FOR CURRENT WINDOW IS GREATER THAN GIVEN K &-->AND DECREMENT THE LEFT POINTING CHARACTER'S VALUE BY ONE AND INCREMENT LEFT POINTER
+6.COMPARE WITH MAX FUNCTION->RESULT AND THE WINDOW SIZE FOR REPLACEMENT AND UPDATE RESULT WHEN GREATER 
+7.RETURN RESULT
+--------------------------------------------------------------------------------------------------
+"""
+

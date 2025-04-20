@@ -31,6 +31,6 @@ PSUEDO CODE
 3.IF CURRENT CHRACTER IS SAME AS IN CHARSET THEN REMOVE THE CHARACTER(s[left]-> which is same as the right one) AND ALSO INCRMENT THE LEFT POINTER 
 4.ADD THE CURRENT(s[right]) CHARACTER TO THE CHARACTER SET(charSet)
 5.COMPARE CURRENT INDEX(which have the longest substring -> right -left -1) NAD THE RESULT AND UPDATE WHICH IS GREATER
-6.RETURN THE RESULT 
+6.RETURN THE RESULTx 
 --------------------------------------------------------------------------------------------------------------
 """

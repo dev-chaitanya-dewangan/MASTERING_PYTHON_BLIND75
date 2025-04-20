@@ -36,18 +36,19 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 
 ## 🧩 Problem Tracker
 
-| #   | Problem Name                 | Difficulty | Status    | Method to Solve (Efficiently)                             |
-| --- | ---------------------------- | ---------- | --------- | --------------------------------------------------------- |
-| 1   | Contains Duplicate           | Easy       | ✅ Solved | HashSet                                                   |
-| 2   | Valid Anagram                | Easy       | ✅ Solved | Frequency Counting (Hash Map)                             |
-| 3   | Two Sum                      | Easy       | ✅ Solved | HashMap (Dictionary)                                      |
-| 4   | Group Anagrams               | Medium     | ✅ Solved | HashMap (with character counts or sorted strings as keys) |
-| 5   | Top K Frequent Elements      | Medium     | ✅ Solved | Bucket Sort                                               |
-| 6   | Encode and Decode Strings    | Medium     | ✅ Solved | Length-Prefix Encoding                                    |
-| 7   | Product of Array Except Self | Medium     | ✅ Solved | Prefix and Suffix Products table                          |
-| 8   | Longest Consecutive Sequence | Medium     | ✅ Solved | HashSet                                                   |
-| 9   | Valid Palindrome             | Easy       | ✅ Solved | Two Pointer                                               |
-| 10  | Three Sum                    | Medium     | ✅ Solved | Two Pointer                                               |
-| 11  | MAX WATER CONTAINER          | Medium     | ✅ Solved | Two Pointer                                               |
-| 12  | BUY SELL STOCK               | Easy       | ✅ Solved | Sliding Window                                            |
-| 13  | LONGEST SUBSTRING            | Medium     | ✅ Solved | Sliding Window                                            |
+| #   | Problem Name                  | Difficulty | Status    | Method to Solve (Efficiently)                             |
+| --- | ----------------------------- | ---------- | --------- | --------------------------------------------------------- |
+| 1   | Contains Duplicate            | Easy       | ✅ Solved | HashSet                                                   |
+| 2   | Valid Anagram                 | Easy       | ✅ Solved | Frequency Counting (Hash Map)                             |
+| 3   | Two Sum                       | Easy       | ✅ Solved | HashMap (Dictionary)                                      |
+| 4   | Group Anagrams                | Medium     | ✅ Solved | HashMap (with character counts or sorted strings as keys) |
+| 5   | Top K Frequent Elements       | Medium     | ✅ Solved | Bucket Sort                                               |
+| 6   | Encode and Decode Strings     | Medium     | ✅ Solved | Length-Prefix Encoding                                    |
+| 7   | Product of Array Except Self  | Medium     | ✅ Solved | Prefix and Suffix Products table                          |
+| 8   | Longest Consecutive Sequence  | Medium     | ✅ Solved | HashSet                                                   |
+| 9   | Valid Palindrome              | Easy       | ✅ Solved | Two Pointer                                               |
+| 10  | Three Sum                     | Medium     | ✅ Solved | Two Pointer                                               |
+| 11  | MAX WATER CONTAINER           | Medium     | ✅ Solved | Two Pointer                                               |
+| 12  | BUY SELL STOCK                | Easy       | ✅ Solved | Sliding Window                                            |
+| 13  | LONGEST SUBSTRING             | Medium     | ✅ Solved | Sliding Window                                            |
+| 14  | LONGEST REPEATING-CHARREPLACE | Medium     | ✅ Solved | Sliding Window                                            |
