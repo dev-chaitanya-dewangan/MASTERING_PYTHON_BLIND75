@@ -52,3 +52,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 12  | BUY SELL STOCK                | Easy       | ✅ Solved | Sliding Window                                            |
 | 13  | LONGEST SUBSTRING             | Medium     | ✅ Solved | Sliding Window                                            |
 | 14  | LONGEST REPEATING-CHARREPLACE | Medium     | ✅ Solved | Sliding Window                                            |
+| 15  | Minimum Window Substring      | Hard       | ✅ Solved | Sliding Window                                            |
