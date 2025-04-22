@@ -53,3 +53,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 13  | LONGEST SUBSTRING             | Medium     | ✅ Solved | Sliding Window                                            |
 | 14  | LONGEST REPEATING-CHARREPLACE | Medium     | ✅ Solved | Sliding Window                                            |
 | 15  | Minimum Window Substring      | Hard       | ✅ Solved | Sliding Window                                            |
+| 16  | Valid Parenthesis             | Easy       | ✅ Solved | Stack                                                     |
