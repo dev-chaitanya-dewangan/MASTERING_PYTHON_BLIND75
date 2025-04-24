@@ -59,3 +59,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 19  | Reverse Linked List           | Easy       | ✅ Solved | Linked List                                               |
 | 20  | Merge Two Sorted Linked List  | Easy       | ✅ Solved | Linked List                                               |
 | 21  | Detect Cycle In Linked List   | Easy       | ✅ Solved | Linked List                                               |
+| 22  | Reorder Linked List           | Medium     | ✅ Solved | Linked List                                               |
