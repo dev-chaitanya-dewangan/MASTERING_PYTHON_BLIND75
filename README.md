@@ -59,5 +59,6 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 19  | Reverse Linked List            | Easy       | ✅ Solved | Linked List                                               |
 | 20  | Merge Two Sorted Linked List   | Easy       | ✅ Solved | Linked List                                               |
 | 21  | Detect Cycle In Linked List    | Easy       | ✅ Solved | Linked List                                               |
-| 22  | Reorder Linked List            | Medium     | ✅ Solved | Linked List                                               |
-| 23  | Remove Nth FromEnd Linked List | Medium     | ✅ Solved | Linked List                                               |
+| 22  | Reorder Linked List            | Medium     | ✅ Solved | Binary                                                    |
+| 23  | Remove Nth FromEnd Linked List | Medium     | ✅ Solved | TWO POINTER                                               |
+| 24  | Maximum depth of Binary Tree   | Easy       | ✅ Solved | DFS                                                       |
