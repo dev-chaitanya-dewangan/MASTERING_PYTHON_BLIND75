@@ -62,3 +62,5 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 22  | Reorder Linked List            | Medium     | ✅ Solved | Binary                                                    |
 | 23  | Remove Nth FromEnd Linked List | Medium     | ✅ Solved | TWO POINTER                                               |
 | 24  | Maximum depth of Binary Tree   | Easy       | ✅ Solved | DFS                                                       |
+| 25  | Invert Tree                    | Easy       | ✅ Solved | DFS                                                       |
+| 26  | Diameter of tree               | Easy       | ✅ Solved | DFS                                                       |
