@@ -67,4 +67,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 27  | Same Tree                      | Easy       | ✅ Solved | DFS                                                       |
 | 28  | Sub-Tree                       | Easy       | ✅ Solved | DFS                                                       |
 | 29  | Lowest Commom Ancestor         | Medium     | ✅ Solved | Iteration                                                 |
-| 29  | LEVEL ORDER TRAVERSAL          | Medium     | ✅ Solved | BFS                                                       |
+| 30  | LEVEL ORDER TRAVERSAL          | Medium     | ✅ Solved | BFS                                                       |
