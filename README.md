@@ -70,3 +70,4 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 30  | LEVEL ORDER TRAVERSAL          | Medium     | ✅ Solved | BFS                                                       |
 | 31  | Right Side ViewOf Binary Tree  | Medium     | ✅ Solved | BFS                                                       |
 | 32  | ValidBinary Search Tree        | Medium     | ✅ Solved | DFS                                                       |
+| 33  | KTH Smallest Node BST          | Medium     | ✅ Solved | ITERATIVE DFS                                             |
