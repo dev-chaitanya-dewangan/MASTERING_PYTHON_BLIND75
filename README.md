@@ -72,3 +72,6 @@ Mistakes are welcome here — especially in **OOP**, where I’m actively learni
 | 32  | ValidBinary Search Tree               | Medium     | ✅ Solved | DFS                                                       |
 | 33  | KTH Smallest Node BST                 | Medium     | ✅ Solved | ITERATIVE DFS                                             |
 | 34  | Construct with pre&inorder>BinaryTree | Medium     | ✅ Solved | ITERATIVE DFS                                             |
+| 35  | FIND MEDIAN FROM DATA STREAM          | Hard       | ✅ Solved | HEAP                                                      |
+| 36  | Combination Sum                       | Medium     | ✅ Solved | Backtracking                                              |
+| 37  | Combination Sum II                    | Medium     | ✅ Solved | Backtracking                                              |
